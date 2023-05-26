@@ -1,1 +1,0 @@
-ffmpeg -f image2 -framerate 30 -i plots/qho_%03d.jpg out.mp4

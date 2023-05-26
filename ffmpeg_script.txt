@@ -1,0 +1,21 @@
+ffmpeg -f image2 -framerate 30 -i plots/qho_%03d.jpg out.mp4
+ 1008  ls
+ 1009  clear
+ 1010  ls
+ 1011  ls
+ 1012  cat fmpeg_script.txt
+ 1013  ffmpeg -f image2 simple_animation.gif QHO_3D.mp4
+ 1014  ffmpeg -f simple_animation.gif QHO_3D.mp4
+ 1015  history
+ 1016  clear
+ 1017  history -1000
+ 1018  ffmpeg simple_animation.gif QHO_3D.mp4
+ 1019  ffmpeg -i simple_animation.gif qho_3d.mp4
+ 1020  ffmpeg -framerate 60 -i qho_3d.mp4 qho_3d.gif
+ 1021  ffmpeg -i qho_3d.mp4 qho_3d.gif
+ 1022  ffmpeg -i qho_3d.mp4 -w=200:h=200 qho_3d.gif
+ 1023  ffmpeg -i qho_3d.mp4 w=200:h=200 qho_3d.gif
+ 1024  ffmpeg -i qho_3d.mp4 -size:w=200:h=200 qho_3d.gif
+ 1025  ffmpeg -i simple_animation.gif qho_3d.mp4
+ 1026  ls
+ 1027  history -10
