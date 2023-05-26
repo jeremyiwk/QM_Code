@@ -5,4 +5,4 @@
 
 
 
-![Alt Text](https://github.com/jeremyiwk/QM_Code/qho_3d.gif)
+![Alt Text](https://github.com/jeremyiwk/QM_Code/blob/main/qho_3d.gif)
